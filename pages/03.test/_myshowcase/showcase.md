@@ -15,4 +15,3 @@ buttons:
         primary: true
 ---
 
-# title of myshowcase
