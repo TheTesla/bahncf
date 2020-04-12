@@ -3,7 +3,7 @@ title: show
 buttons:
     -
         text: home
-        url: bahn.cf
+        url: 'https://bahn.cf'
         primary: true
 ---
 
