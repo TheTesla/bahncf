@@ -1,5 +1,0 @@
----
-title: testFeatures
-class: small
----
-
