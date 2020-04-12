@@ -1,5 +1,6 @@
 ---
 title: myshowcase
+visible: true
 buttons:
     -
         text: home
