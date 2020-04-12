@@ -1,7 +1,5 @@
 ---
 title: myshowcase
-published: true
-visible: true
 buttons:
     -
         text: home
